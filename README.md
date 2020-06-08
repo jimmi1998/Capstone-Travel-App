@@ -10,11 +10,17 @@ The minimum requirements ask a fair amount from you, but the final app is quite 
 ## Project Instructions
 
 The goal of this project are:
+
     * Setting up Webpack
+    
     * Sass styles
+    
     * Webpack Loaders and Plugins
+    
     * Creating layouts and page design
+    
     * Service workers
+    
     * Using APIs and creating requests to external urls
 
 ## Steps to run the project on your local machine
