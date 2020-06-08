@@ -11,26 +11,26 @@ The minimum requirements ask a fair amount from you, but the final app is quite 
 
 The goal of this project are:
 
-    - Setting up Webpack
+    * Setting up Webpack
     
-    - Sass styles
+    * Sass styles
     
-    - Webpack Loaders and Plugins
+    * Webpack Loaders and Plugins
     
-    - Creating layouts and page design
+    * Creating layouts and page design
     
-    - Service workers
+    * Service workers
     
-    - Using APIs and creating requests to external urls
+    * Using APIs and creating requests to external urls
 
 ## Steps to run the project on your local machine
 
-    - `cd` into the project folder and run: `npm install`
+    * `cd` into the project folder and run: `npm install`
 
-    - Run `npm run start` to run the API server
+    * Run `npm run start` to run the API server
 
-    - Run `npm run build-dev` to run the client
+    * Run `npm run build-dev` to run the client
 
-    - Run `npm run build-prod` to run the client
+    * Run `npm run build-prod` to run the client
 
-    - Run `npm run test` to run the tests
+    * Run `npm run test` to run the tests
