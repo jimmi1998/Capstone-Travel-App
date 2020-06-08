@@ -1,0 +1,12 @@
+@import "colors";
+@import "header";
+@import "footer";
+@import "resets";
+@import "section";
+body{
+    background-image: url(../views/img/travel.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000000;
+}
